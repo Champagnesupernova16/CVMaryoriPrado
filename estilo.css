@@ -9,9 +9,9 @@
 
 
 .wrapper{
-    width: 1440px;
+    width: 100%;
     
-    height: 1024px;
+    height: auto;
     background: linear-gradient(rgba(5, 3, 29, 1), rgba(36, 28, 118, 0.60) 53.12%, rgba(13, 10, 44, 0.60) 100%);
     color: black;
   
@@ -52,7 +52,7 @@
     justify-content: space-around;
     padding: 2em;
     text-align: center;
-    width: 1440px;
+    width: 100%;
     height: 173px;
     
 }
@@ -70,6 +70,7 @@
     height: 670px;
     border-radius: 50px;
     margin-top: 70px;
+    
     
 }
 
@@ -145,9 +146,11 @@ img{
 
 footer{
     background-color: rgba(9, 5, 50, 1);
-    width: 1440px;
+    width: 100%;
     height: 73px;
     padding: 10px 20px;
+    margin-top: 5%;
+    
     
     
 
@@ -172,8 +175,8 @@ h2{
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
-    width: 1440px;
-    height: 1024px;
+    width: 100%;
+    height: auto;
 
 
 
